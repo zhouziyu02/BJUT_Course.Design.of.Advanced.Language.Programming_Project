@@ -1,0 +1,9 @@
+﻿  keshe1.cpp
+D:\Desktop\4.22\4.22\keshe1.cpp(248,27): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\4.22\4.22\keshe1.cpp(169,11): warning C4101: “mmsg”: 未引用的局部变量
+D:\Desktop\4.22\4.22\keshe1.cpp(144,6): warning C4101: “mouseX”: 未引用的局部变量
+D:\Desktop\4.22\4.22\keshe1.cpp(140,7): warning C4101: “node”: 未引用的局部变量
+D:\Desktop\4.22\4.22\keshe1.cpp(145,6): warning C4101: “mouseY”: 未引用的局部变量
+D:\Desktop\4.22\4.22\keshe1.cpp(264,12): warning C4101: “g”: 未引用的局部变量
+D:\Desktop\4.22\4.22\keshe1.cpp(664): warning C4715: “checkButton”: 不是所有的控件路径都返回值
+  4.22.vcxproj -> D:\Desktop\4.22\Debug\4.22.exe
